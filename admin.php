@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Dit is mijn admin
+    Dit is mijn admin pagina!
 </body>
 </html>
