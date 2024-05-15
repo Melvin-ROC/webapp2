@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    Dit is mijn admin pagina!
+    Dit is mijn admin pagina! 
+    En hier kan ik reizen beheren
 </body>
 </html>
