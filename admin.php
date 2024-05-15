@@ -7,5 +7,6 @@
 </head>
 <body>
     Dit is mijn admin pagina!
+    Ja man super tof!
 </body>
 </html>
