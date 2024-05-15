@@ -8,5 +8,6 @@
 <body>
     Dit is mijn admin pagina!
     Ja man super tof!
+    En hier kan ik reizen beheren
 </body>
 </html>
